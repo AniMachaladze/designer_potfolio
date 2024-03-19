@@ -132,17 +132,5 @@ window.addEventListener("resize", initSlider);
 window.addEventListener("load", initSlider);
 
 
-//LOADER **************
-
-// window.addEventListener("load", () => {
-//   const loader = document.querySelector(".preloader");
-
-//   loader.classList.add("loader--hidden");
-
-//   loader.addEventListener("transitionend", () => {
-//     document.body.removeChild(loader);
-//   });
-// }, 5000);
-
 
 
