@@ -438,6 +438,19 @@ footer {
 }
 
 
+.project_img {
+    margin-bottom: 15px;
+}
+  
+.w500 img {
+    height: 600px;
+}
+
+.w700 img {
+    height: 700px;
+}
+
+
   
 
 /* Mobile Styles */
