@@ -21,7 +21,7 @@
 
 @font-face {
     font-family: 'eleganto';
-    src: url(../font/IMFellDoublePicaSC-Regular.ttf);
+    src: url(../font/PTSansNarrow-Bold.ttf);
 }
 
 @font-face {
@@ -228,7 +228,7 @@ nav {
 
 .work_text h6 {
     color: var(--text_w);
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 30px;
 }
 
@@ -241,7 +241,7 @@ nav {
 
 .work_img img {
     width: 200px;
-    height: 100px;
+    height: 160px;
     object-fit: cover;
 }
 
