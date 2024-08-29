@@ -249,6 +249,21 @@ nav {
     margin-top: 70px;
 }
 
+.lunch_pd {
+    margin: 0;
+}
+
+.lunch_pd img {
+    height: 862px;
+}
+
+.pd_r {
+    padding-right: 0;
+}
+.pd_l {
+    padding-left: 0;
+}
+
 
 /* footer */
 
