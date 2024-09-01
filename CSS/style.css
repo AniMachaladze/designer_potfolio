@@ -207,22 +207,22 @@ footer {
 
 #image-track {
     display: flex;
-    gap: 7vmin;
+    gap: 1vmin;
     position: absolute;
-    left: 30%;
+    left: 15%;
     top: -254px;
     transform: translate(0%, -50%); 
     user-select: none;
 }
   
 #image-track > .image {
-    width: 55vmin;
+    width: 71vmin;
     height: 70vmin;
     object-fit: cover;
-    object-position: 100% center;
+    /* object-position: 100% center; */
     cursor: grab;
     transition: .5s;
-    box-shadow: 1px 1px 20px 12px #8080809c;
+    /* box-shadow: 1px 1px 20px 12px #8080809c; */
 }
 
 #image-track > .image:hover {
